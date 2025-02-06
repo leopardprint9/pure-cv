@@ -21,7 +21,7 @@ a, a:hover {
 h2 {
     font-size: 20px;
     font-weight: 500;
-    color: #64b2b6;
+    color: #D5825A;
 }
 
 .left-side {
@@ -50,14 +50,14 @@ h2 {
 .btn-cv {
     padding: 10px;
     color: white;
-    background-color: #71c9ce;
+    background-color: #D5825A;
     width: 100%;
     border-radius: 0px;
 }
 
 .btn-cv:hover {
     color: #fff;
-    background-color: #64b2b6;
+    background-color: #D5825A;
 }
 
 .btn:focus, .btn:active {
@@ -94,7 +94,7 @@ section {
 }
 
 .company, .school-name{
-    color: #71c9ce;
+    color: #D5825A;
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0px;
@@ -103,7 +103,7 @@ section {
 .time {
     font-size: 15px;
     font-weight: 500;
-    color: #71c9ce;
+    color: #D5825A;
 }
 
 .job-title, .school-title {
@@ -117,7 +117,7 @@ section {
 }
 
 .honors h3{
-    color: #71c9ce;
+    color: #D5825A;
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0px;
